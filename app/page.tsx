@@ -149,8 +149,8 @@ function Page() {
       {/* Testimonial 1 */}
       <div className="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg transition-all hover:scale-105 hover:shadow-2xl animate__animated animate__fadeIn animate__delay-2s">
         <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-          "This service has completely changed the way we do business. The team
-          is very supportive and always available to help us."
+        &quot;This service has completely changed the way we do business. The team
+          is very supportive and always available to help us.&quot;
         </p>
         <div className="flex items-center justify-center">
           <img
@@ -172,8 +172,8 @@ function Page() {
       {/* Testimonial 2 */}
       <div className="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg transition-all hover:scale-105 hover:shadow-2xl animate__animated animate__fadeIn animate__delay-3s">
         <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-          "Amazing customer service and incredible value. I’ve recommended this
-          to all my colleagues!"
+        &quot;Amazing customer service and incredible value. I&quot;ve recommended this
+          to all my colleagues!&quot;
         </p>
         <div className="flex items-center justify-center">
           <img
@@ -195,8 +195,8 @@ function Page() {
       {/* Testimonial 3 */}
       <div className="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-lg transition-all hover:scale-105 hover:shadow-2xl animate__animated animate__fadeIn animate__delay-4s">
         <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-          "I can’t imagine working without this service anymore. It’s helped us
-          streamline our processes immensely."
+        &quot;I can&apos;t imagine working without this service anymore. It&quot;s helped us
+        streamline our processes immensely.&quot;
         </p>
         <div className="flex items-center justify-center">
           <img

@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const LoginPage: React.FC = () => {
   return (
@@ -49,12 +50,12 @@ const LoginPage: React.FC = () => {
         <div className="mt-4 text-center">
           <p className="text-sm text-gray-600 dark:text-gray-400">
             Don't have an account?{" "}
-            <a
+            <Link
               href="/signup"
               className="font-medium text-blue-500 hover:underline dark:text-blue-400"
             >
               Sign up
-            </a>
+            </Link>
           </p>
         </div>
       </div>

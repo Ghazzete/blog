@@ -25,14 +25,14 @@ const About = () => {
 
             {/* About Text */}
             <div className="w-full md:w-2/3 text-center md:text-left animate__animated animate__fadeInRight">
-              <h1 className="text-3xl font-bold mb-4">Hi, I'm Fizza!</h1>
+              <h1 className="text-3xl font-bold mb-4">Hi, I&apos;m Fizza!</h1>
               <p className="text-lg leading-relaxed mb-4">
                 A passionate beginner in web development, I have been diving into the world of
                 HTML, CSS, JavaScript, TypeScript, and Next.js. My journey is fueled by curiosity, and I aim to
                 create meaningful and user-friendly web experiences that can make a difference.
               </p>
               <p className="text-lg leading-relaxed mb-4">
-                Along with my technical skills, I’m passionate about learning new tools and frameworks to
+                Along with my technical skills, I&apos;m passionate about learning new tools and frameworks to
                 stay ahead in the ever-evolving field of web development.
               </p>
               <p className="text-lg leading-relaxed">
@@ -51,7 +51,7 @@ const About = () => {
               My Journey as a Developer
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-50">
-              Here’s how my learning path unfolded—from the basics to building
+              Here&apos;s how my learning path unfolded—from the basics to building
               full-fledged applications.
             </p>
           </div>
@@ -70,7 +70,7 @@ const About = () => {
                 />
               </div>
               <div className="w-full md:w-2/3 md:pl-8 mt-8 md:mt-0">
-                <h3 className="text-2xl font-bold mb-2">Starting with HTML & CSS</h3>
+                <h3 className="text-2xl font-bold mb-2">Starting with HTML &amp; CSS</h3>
                 <p className="text-gray-600 dark:text-gray-50">
                   I began by learning how to structure and style websites, focusing on layouts and responsive designs.
                 </p>
@@ -133,7 +133,7 @@ const About = () => {
           <div className="text-center mb-12">
             <h2 className="text-3xl font-extrabold mb-4">My Skills</h2>
             <p className="text-lg text-gray-600 dark:text-gray-50">
-              I’m continuously improving my skills in various technologies to create modern and interactive websites.
+              I&apos;m continuously improving my skills in various technologies to create modern and interactive websites.
             </p>
           </div>
 
